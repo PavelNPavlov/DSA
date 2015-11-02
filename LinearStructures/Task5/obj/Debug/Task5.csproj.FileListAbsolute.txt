@@ -1,0 +1,5 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task5\bin\Debug\Task5.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task5\bin\Debug\Task5.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task5\bin\Debug\Task5.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task5\obj\Debug\Task5.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task5\obj\Debug\Task5.pdb

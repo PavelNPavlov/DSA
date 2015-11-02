@@ -1,0 +1,5 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task8\bin\Debug\Task8.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task8\bin\Debug\Task8.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task8\bin\Debug\Task8.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task8\obj\Debug\Task8.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Task8\obj\Debug\Task8.pdb

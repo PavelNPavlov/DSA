@@ -1,0 +1,6 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\bin\Debug\task10.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\bin\Debug\task10.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\bin\Debug\task10.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\obj\Debug\task10.csprojResolveAssemblyReference.cache
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\obj\Debug\task10.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\task10\obj\Debug\task10.pdb

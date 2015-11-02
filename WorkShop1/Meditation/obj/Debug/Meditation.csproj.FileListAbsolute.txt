@@ -1,0 +1,6 @@
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\bin\Debug\Meditation.exe.config
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\bin\Debug\Meditation.exe
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\bin\Debug\Meditation.pdb
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\obj\Debug\Meditation.csprojResolveAssemblyReference.cache
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\obj\Debug\Meditation.exe
+C:\Users\PavelPC\Documents\DSA\WorkShop1\Meditation\obj\Debug\Meditation.pdb

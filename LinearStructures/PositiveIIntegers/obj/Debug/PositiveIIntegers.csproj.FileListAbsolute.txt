@@ -1,0 +1,6 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\bin\Debug\PositiveIIntegers.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\bin\Debug\PositiveIIntegers.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\bin\Debug\PositiveIIntegers.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\obj\Debug\PositiveIIntegers.csprojResolveAssemblyReference.cache
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\obj\Debug\PositiveIIntegers.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\PositiveIIntegers\obj\Debug\PositiveIIntegers.pdb

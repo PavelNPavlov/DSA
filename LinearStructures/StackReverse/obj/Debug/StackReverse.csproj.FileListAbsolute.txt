@@ -1,0 +1,6 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\bin\Debug\StackReverse.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\bin\Debug\StackReverse.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\bin\Debug\StackReverse.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\obj\Debug\StackReverse.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\obj\Debug\StackReverse.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\StackReverse\obj\Debug\StackReverse.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Taks 9\bin\Debug\Taks 9.exe.config
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Taks 9\bin\Debug\Taks 9.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Taks 9\bin\Debug\Taks 9.pdb
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Taks 9\obj\Debug\Taks 9.exe
+C:\Users\PavelPC\Documents\DSA\LinearStructures\Taks 9\obj\Debug\Taks 9.pdb
